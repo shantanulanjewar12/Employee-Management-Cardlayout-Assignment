@@ -72,20 +72,4 @@ cd employee-management-cards-frontend
 npm run dev
 ```
 
-# ⚙️ Environment Variables (.env)
-```env
-PORT=5000
-
-DB_HOST=mysql-shantanu-shantanu-2004.g.aivencloud.com
-DB_USER=avnadmin
-DB_PASSWORD=AVNS_eEMttI5L7raLWgJCtU-
-DB_NAME=employee_management_card
-DB_PORT=18871
-
-JWT_SECRET=Shantanu
-
-CLOUD_NAME=dcr6vyqcn
-CLOUD_API_KEY=264969114876767
-CLOUD_API_SECRET=wkN9S96lxM_C-eUQIF0b1VLxjQ0
-```
 
