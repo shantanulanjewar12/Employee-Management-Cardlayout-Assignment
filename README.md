@@ -16,8 +16,8 @@ A full-stack Employee Management System built using:
 
 ### 👑 Admin Login
 
-Email: admin@company.com  
-Password: Admin123  
+Email: admin@123
+Password: admin  
 
 ---
 
